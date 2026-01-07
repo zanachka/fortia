@@ -1,0 +1,13 @@
+./lib/SessionManager.js
+./lib/TabAnnotator.js
+./lib/tabhtml.js
+./lib/FortiaClient.js
+./lib/main.js
+./lib/utils.js
+./lib/dialogs.js
+./lib/TemplateStore.js
+./lib/Log.js
+./lib/dispatcher.js
+./lib/Session.js
+./lib/PreviewPanel.js
+./lib/protocol.js
